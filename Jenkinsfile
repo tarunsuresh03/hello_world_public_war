@@ -1,7 +1,7 @@
 pipeline{
     agent any
     tools {
-         // this line need to be checked 
+         // maven  
         maven "maven1"
     }
     stages{
